@@ -1,3 +1,7 @@
+# Problem name: Even Fibonacci numbers (problem 2)
+# Problem url: https://projecteuler.net/problem=2
+# Author: Thorvaldur Gautsson
+
 def fibs(n):
 	sum = 0
 	num1 = 1

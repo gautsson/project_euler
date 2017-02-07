@@ -1,3 +1,7 @@
+# Problem name: Largest prime factor (problem 3)
+# Problem url: https://projecteuler.net/problem=3
+# Author: Thorvaldur Gautsson
+
 def find_factors(n):
 	factors = []
 	i = 2

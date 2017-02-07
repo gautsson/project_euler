@@ -1,3 +1,7 @@
+// Problem name: Largest palindrome product (problem 4)
+// Problem url: https://projecteuler.net/problem=4
+// Author: Thorvaldur Gautsson
+
 function findLargestPalindrome() {
 	var palindromes = [];
 	var num1 = 999;
